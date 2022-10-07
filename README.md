@@ -1,6 +1,6 @@
 # IRRest Client
 
-Ceci est le client pour le projet **fr.tvmp.irrest**
+Ceci est le client pour le projet [**fr.tvmp.irrest**](https://github.com/invictos/ir-rest)
 
 
 ## Package vers un .jar
